@@ -1,0 +1,10 @@
+Taille 1000
+Nombre 500000
+Pas 0
+Proba 1
+GenRayon 1
+FonctionRayon 1.2
+RayonInit 3
+RayonMax 1.4
+NombreGrains 1
+500 500
